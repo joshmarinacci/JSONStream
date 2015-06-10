@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 var Parser = require('jsonparse')
   , through = require('through')
 
